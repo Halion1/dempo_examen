@@ -1,0 +1,3 @@
+# Ignore all .fast5 files
+*.fast5
+output_fastq/
