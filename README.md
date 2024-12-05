@@ -41,7 +41,8 @@ La lista completa de dependencias está especificada en el archivo `.yml`.
 
 - **`dempotest_fullshellscript.sh`**: Contiene todos los pasos para reproducir los resultados, incluyendo la instalación de las bibliotecas y la configuración del entorno en Mamba.
 - **`dempotest_script.sh`**: Script para el procesamiento de los datos y el código para el alineamiento.
-- **`simplified_output.fasta`**: Archivo con las secuencias procesadas listas para alineamiento.
+- **`simplified_output.fasta`**: Archivo con todas las secuencias procesadas listas para alineamiento, estos archivos se podran encontrar en el siguiente link de drive https://drive.google.com/drive/folders/19LTBdCj0idh32iysR85SGdFMW1KOL-Hn?usp=sharing
+- - **`output_example.fasta`**: Archivo con 5 secuencias procesadas listas para alineamiento.
 - **`aligned_clustalo.fasta` y `aligned_mafft.fasta`**: Ejemplos de los alineamientos finales obtenidos. Los alineamientos se realizaron con 5 secuencias y la secuencia de referencia, utilizando Clustal Omega y MAFFT respectivamente.
 
 ## 5. Recomendaciones
